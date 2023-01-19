@@ -12,3 +12,10 @@ nav{
   
 
 }
+marquee{
+    height: 20px;
+    width: 100%;
+    background-color: rgb(192, 192, 67);
+    color: black;
+    font-family: cursive;
+}
