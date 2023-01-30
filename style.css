@@ -19,3 +19,14 @@ marquee{
     color: black;
     font-family: cursive;
 }
+
+footer{
+    height:100px;
+    width: 100%;
+    background-color:  rgb(192, 192, 67);
+}
+#A{
+    height: 100vh;
+    width: 100px;
+    background-color: yellowgreen;
+}
